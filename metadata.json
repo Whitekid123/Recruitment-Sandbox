@@ -1,0 +1,5 @@
+{
+  "name": "RecruitMaster Sandbox",
+  "description": "An AI-powered recruitment workspace that transforms raw role notes into polished LinkedIn JDs and structured behavioral interview guides using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
